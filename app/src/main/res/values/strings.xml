@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Roundbook</string>
+    <string name="rounds_title">Maintenance rounds</string>
+    <string name="rounds_summary">%1$d open · %2$d completed</string>
+    <string name="filter_open">Open</string>
+    <string name="filter_completed">Completed</string>
+    <string name="filter_all">All</string>
+    <string name="none_open">All inspections are complete.</string>
+    <string name="none_completed">No completed inspections yet.</string>
+    <string name="none_available">No inspections available.</string>
+    <string name="back_to_rounds">Back to rounds</string>
+    <string name="field_notes">Field notes</string>
+    <string name="inspection_checklist">Inspection checklist</string>
+    <string name="mark_completed">Mark completed</string>
+    <string name="reopen_inspection">Reopen inspection</string>
+</resources>
